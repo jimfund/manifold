@@ -143,6 +143,7 @@ export const BOT_USERNAMES = [
   'FirstBot',
   'bawt',
   'FireTheCEO',
+  'jimbot',
   'JointBot',
   'WrenTec',
   'TigerMcBot',
